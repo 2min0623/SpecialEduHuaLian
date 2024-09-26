@@ -57,6 +57,12 @@
                         "Name": "計算板",
                         "Description": "請將數字進行加總吧",
                         "Img": "MA_Pub_13.png"
+                    },
+                    {
+                        "id": "MA_Pub_14",
+                        "Name": "連連看",
+                        "Description": "將對應的數字與百格版、定位版進行匹配吧",
+                        "Img": "MA_Pub_09.png"
                     }
                 ]
             }
